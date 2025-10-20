@@ -10,9 +10,9 @@
 - 面向结果：更聚焦投递与转化，而非花哨功能
 
 ### 了解与试用
-- 了解产品与用法： [AI 简历生成器](gptresume.net)
-- 浏览模板与案例： [简历模板合集](gptresume.net)
-- 按岗位与关键词查找： [模板与提示词搜索](gptresume.net)
+- 了解产品与用法： [AI 简历生成器](https://gptresume.net)
+- 浏览模板与案例： [简历模板合集](https://gptresume.net)
+- 按岗位与关键词查找： [模板与提示词搜索](https://gptresume.net)
 
 ### 适用人群
 - 希望用 AI 快速产出可投递简历的同学
