@@ -1,3 +1,5 @@
+[🔗 访问官网 gptresume.net](https://gptresume.net)
+
 # gptresume-docs
 ### GPTResume
 
